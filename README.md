@@ -1,2 +1,2 @@
-# Avishkaar_Idea
-AI-Dermatology Assistant
+# AI-Dermatology Assistant
+Codebase will be uploaded soon..
