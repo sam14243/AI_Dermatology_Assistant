@@ -1,0 +1,28 @@
+.image-uploader {
+    text-align: center;
+  }
+  
+  .input-file {
+    position: relative;
+    overflow: hidden;
+    display: inline-block;
+    cursor: pointer;
+    background-color: #4caf50;
+    color: #fff;
+    padding: 10px 20px;
+    border-radius: 5px;
+    transition: background-color 0.3s ease;
+  }
+  
+  .input-file:hover {
+    background-color: #45a049;
+  }
+  
+  .image-preview {
+    margin-top: 20px;
+  }
+  
+  .preview-image {
+    max-width: 300px;
+    max-height: 300px;
+  }

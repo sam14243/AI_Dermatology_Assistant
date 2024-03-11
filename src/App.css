@@ -1,0 +1,19 @@
+html, body {
+  height: 100%;
+  margin: 0;
+}
+
+.App {
+  width: 100%;
+  height: 100vh; /* Fills the viewport height */
+  background-size: cover;
+  background-position: center;
+  background-repeat: no-repeat;
+  text-align: center;
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  height: 100vh;
+  font-size: larger;
+}
