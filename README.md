@@ -1,4 +1,4 @@
-# AI-Dermatology Assistant
+# AI-Dermatant
 
 <h3>Tech Stack:</h3>
 <ul>
