@@ -1,5 +1,6 @@
 # AI-Dermatant
-
+<h3>About:</h3>
+An AI dermatology assistant developed for immediate preliminary diagnosis of skin diseases for Avishkaar'24, a national level hackathon sponsored by GeeksforGeeks
 <h3>Tech Stack:</h3>
 <ul>
 <li>Frontend: ReactJS, CSS</li>
