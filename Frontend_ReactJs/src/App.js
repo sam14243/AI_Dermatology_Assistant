@@ -5,8 +5,8 @@ import ImagePicture from './components/ImagePicture';
 import { ThemeProvider } from 'styled-components';
 import './App.css';
 import axios from 'axios';
-import robo from './images/img.png';
-import bg from './images/Bgimg.jpg';
+import robo from './image/img.png';
+import bg from './image/Bgimg.jpg';
 import ChatUploader from './components/ChatUploader';
 
 const config = {
